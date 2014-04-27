@@ -14,7 +14,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-Transformations:
+Transformations (also in the README file:
 =========================================
 Merge the training and the test sets
 Extract measurements on the mean and standard deviation for each measurement (meanFreq() not included)
